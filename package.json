@@ -1,0 +1,26 @@
+{
+  "name": "afvalkalender",
+  "version": "1.0.0",
+  "dependencies": {},
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/youness186/afvalkalender.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/youness186/afvalkalender/issues"
+  },
+  "homepage": "https://github.com/youness186/afvalkalender#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-babel": "^7.0.0",
+    "grunt-contrib-cssmin": "^2.2.1",
+    "grunt-contrib-uglify": "^3.3.0"
+  }
+}
